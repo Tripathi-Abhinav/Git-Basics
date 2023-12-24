@@ -1,0 +1,11 @@
+WorkFlow
+
+1. Local Git => (general flow)
+            create file/repository on GitHub
+            Clone on vs code
+            make changes
+            add 
+            commit 
+            push on GitHub
+
+2. changes from local git to Remote git 
