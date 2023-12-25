@@ -27,4 +27,9 @@ way 2.  create a pull request
 after merging both both branch i.e one from which changes are merged to another branch
 , both the branches will have the same content
 
+
+Pull Command - it is used to fetch and download from a remote repo (GitHub) and 
+immediately update the local repo(laptop) so that content on both repos get same.
+
+        git pull origin main
 */
