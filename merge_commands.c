@@ -24,5 +24,14 @@ way 2.  create a pull request
                                             can't be accepted or any comment
 
 
+after merging both both branch i.e one from which changes are merged to another branch
+, both the branches will have the same content
 
+
+Pull Command - git pull origin main
+
+it is used to fetch and download from a remote repo (GitHub) and 
+immediately update the local repo(laptop) so that content on both repos get same.
+
+        
 */
