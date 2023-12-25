@@ -32,10 +32,12 @@ Pull Command - git pull origin main
 
 it is used to fetch and download from a remote repo (GitHub) and 
 immediately update the local repo(laptop) so that content on both repos get same.
-
-        
 */
 
 /*
-new feature = dropdown 
+Resolving Merge Conflicts
+this event takes place when Git is unable to automatically resolve differences in 
+code between two commit. 
+        It arises due to commit in same line, thus Git don't able to decide which commit has to give preference over another.
+                It has to done manually.
 */

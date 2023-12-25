@@ -1,0 +1,18 @@
+FORK :- 
+        A fork is new repository that shares code and visibility settings
+        with the original "upstream" repository.
+
+        Fork is a rough copy of a project.
+
+        In other words, let say you have to do some modifications/changes 
+        in some other's project or your friend's project or want to contribute 
+        in the open-source project. Then, you can fork that project on your 
+        GitHub, that means you can create copy of code with exactly same 
+        setting and other things totally same on your GitHub, so that you
+        can work on it and do modifications as per convenience.
+
+        You can commit in main branch of that forked project copy. This 
+        will not change the original code in main branch.
+        In order to merge this change in the code of original project,
+        you can create a  new pull request
+

@@ -60,3 +60,6 @@
     git branch (to check currently I am in which branch)
     git branch -M branch (to rename branch)
     git push origin main
+
+12. 'git log' ; this command shows history of commits.
+      
