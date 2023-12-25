@@ -24,5 +24,7 @@ way 2.  create a pull request
                                             can't be accepted or any comment
 
 
+after merging both both branch i.e one from which changes are merged to another branch
+, both the branches will have the same content
 
 */
