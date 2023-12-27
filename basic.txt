@@ -7,6 +7,8 @@
    git config --global user.name "give username"
    git config --global user.email "someone@email.com" (there two ways of configuration: local and global)
    git config --list  (to see details stored in git config)
+   git config --unset global user.email (this is to remove user email from git bash)
+   git config --unset global user.name (this is to remove user name from git bash)
 
 4. Clone - Cloning a repository on our local machine to work 
    git clone <project link>  (thhis helps to work on local system and push it to remote repo)
